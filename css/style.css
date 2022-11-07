@@ -1,0 +1,31 @@
+body,.item{
+    background-color: #24353f;
+    font-family: sans-serif;
+    color: white;
+    
+}
+h1{
+    color: #17a2b8;;
+}
+.group,nav,.item{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.item p a{
+    color: white;
+    text-decoration: none;
+}
+.item p a:hover{
+    text-decoration: underline;
+}
+/* #welcomeLogIn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+#sucssesInput{
+    color: yellowgreen;
+}
+.home{
+    height: 80vh;
+}
+
